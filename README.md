@@ -23,6 +23,7 @@ If you'd like to use this template for your own book:
 
 If the Action does not run, then you will need to debug. Click on the Action that did not build and click on the part that had a problem.
 
+
 ### Building your book locally
 
 1. Open a terminal.
