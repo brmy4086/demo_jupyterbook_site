@@ -7,3 +7,4 @@ chapters:
 - file: myst-markdown
 - file: notebooks/ipynb-notebook
 - file: notebooks/myst-notebook
+_ file: notebooks/ATOC4500_Final_Project.ipynb
