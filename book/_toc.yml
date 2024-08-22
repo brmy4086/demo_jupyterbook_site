@@ -8,3 +8,4 @@ chapters:
 - file: notebooks/ipynb-notebook
 - file: notebooks/myst-notebook
 - file: notebooks/ATOC4500_Final_Project.ipynb
+  title: ATOC4500 Final Project
